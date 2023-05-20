@@ -9,3 +9,6 @@ print(a)
 print(a)
 print("hello world")
 
+b = np.array([1, 2, 3])
+
+print(b)
