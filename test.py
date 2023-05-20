@@ -4,3 +4,8 @@ import numpy as np
 
 a = np.zeros((2, 3))
 print(a)
+
+# 第三次修改，测试vscode+git
+print(a)
+print("hello world")
+
